@@ -1,0 +1,13 @@
+name: benfordslaw_cr
+version: 0.1.0
+
+authors:
+  - Christoph Daniel Miksche <christoph@miksche.org>
+
+dependencies:
+  chi-squared:
+    github: cmiksche/chi-squared
+
+crystal: 0.35.1
+
+license: MIT
