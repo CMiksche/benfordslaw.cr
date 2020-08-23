@@ -22,6 +22,16 @@ require "benfordslaw"
 
 TODO: Write usage instructions here
 
+## Development
+
+Run tests:
+
+    crystal spec
+
+Format:
+
+    crystal tool format
+
 ## Contributing
 
 1. Fork it (<https://github.com/CMiksche/benfordslaw.cr/fork>)
