@@ -57,5 +57,6 @@ Format:
 
 ## See also
 
+* https://blog.m5e.de/post/benchmarking-go-crystal-python-and-js/ Benchmarking Benford's Law in different Programming Languages
 * https://github.com/CMiksche/benford A Go Package implementation of this benford's law check
 * https://github.com/CMiksche/benfordslaw A JavaScript / TypeScript npm Package implementation of this benford's law check
