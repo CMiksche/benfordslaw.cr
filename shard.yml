@@ -8,6 +8,6 @@ dependencies:
   chi-squared:
     github: cmiksche/chi-squared
 
-crystal: 0.35.1
+crystal: ">= 0.35"
 
 license: MIT

@@ -1,0 +1,10 @@
+kind: pipeline
+name: default
+
+steps:
+- name: test
+  image: crystallang/crystal
+  commands:
+  - shards install
+  - crystal spec
+  - crystal tool format --check

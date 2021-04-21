@@ -1,6 +1,6 @@
 # benfordslaw.cr
 
-[![Build Status](https://travis-ci.org/CMiksche/benfordslaw.cr.svg?branch=master)](https://travis-ci.org/CMiksche/benfordslaw.cr)
+[![Build Status](https://cloud.drone.io/api/badges/CMiksche/benfordslaw.cr/status.svg)](https://cloud.drone.io/CMiksche/benfordslaw.cr)
 
 A Crystal shard which provides a check if a number array confirms to the Benford's Law
 
